@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # event-reminder-app
 An Event Reminder App built with Laravel 10 and Vue.js. It supports CRUD operations, event categorization (upcoming/completed), auto-generated event IDs, offline functionality with sync, and email reminders to external recipients. CSV import is available for bulk event creation. Simple, efficient, and user-friendly.
-=======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -68,4 +66,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> 57a243b (Initial commit for Event Reminder App)
