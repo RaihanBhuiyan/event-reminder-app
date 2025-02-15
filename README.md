@@ -115,5 +115,4 @@ This README provides:
 - Email integration details
 - License information
 
-Replace `yourusername` with your GitHub username and ensure all configurations match your setup.
 
